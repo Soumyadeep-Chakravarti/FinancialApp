@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3"
+
+members = [
+    "finance-core",
+    #"finance-ffi",
+    #"finance-cli",
+]
