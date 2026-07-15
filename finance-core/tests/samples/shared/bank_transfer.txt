@@ -1,0 +1,3 @@
+NEFT transfer of Rs.15000.00 from SBI to HDFC completed. Ref: NEFT123456789
+RTGS transfer of Rs.50000.00 from Axis to ICICI completed. Ref: RTGS987654321
+IMPS transfer of Rs.5000.00 to SBI completed. Ref: IMPS456789123

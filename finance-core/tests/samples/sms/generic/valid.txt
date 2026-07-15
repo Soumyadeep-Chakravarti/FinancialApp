@@ -1,0 +1,20 @@
+UPI: Rs.500.00 sent to SWIGGY UPI Ref 123456789012
+UPI: Rs.1200.00 paid to Amazon Pay UPI Ref 987654321012
+UPI: Rs.350.00 sent to Zomato UPI Ref 456789012345
+UPI: Rs.75.00 sent to auto driver UPI Ref 112233445566
+UPI: Rs.2500.00 paid to Flipkart UPI Ref 667788990011
+UPI: Rs.150.00 sent to rickshawala UPI Ref 223344556677
+UPI: Rs.4500.00 paid to LIC Premium UPI Ref 334455667788
+UPI: Rs.850.00 sent to electricity board UPI Ref 445566778899
+UPI: Rs.200.00 paid to metro recharge UPI Ref 556677889900
+UPI: Rs.3200.00 sent to Rent UPI Ref 667788990022
+UPI: Rs.99.00 sent to Jio recharge UPI Ref 778899001122
+UPI: Rs.1800.00 paid to Amazon UPI Ref 889900112233
+UPI: Rs.450.00 sent to Ola UPI Ref 990011223344
+UPI: Rs.600.00 paid to Netflix UPI Ref 001122334455
+UPI: Rs.1750.00 sent to IISC Donation UPI Ref 112233445567
+UPI: Rs.250.00 paid to PhonePe UPI Ref 223344556678
+UPI: Rs.8000.00 sent to friend UPI Ref 334455667789
+UPI: Rs.120.00 paid to parking UPI Ref 445566778890
+UPI: Rs.550.00 sent to pharmacy UPI Ref 556677889901
+UPI: Rs.3500.00 paid to mobile shop UPI Ref 667788990033

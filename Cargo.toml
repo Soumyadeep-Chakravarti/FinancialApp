@@ -3,6 +3,7 @@ resolver = "3"
 
 members = [
     "finance-core",
+    "finance-import-adb",
     #"finance-ffi",
     #"finance-cli",
 ]

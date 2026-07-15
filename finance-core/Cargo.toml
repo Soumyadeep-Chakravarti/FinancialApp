@@ -40,5 +40,8 @@ regex = "1"
 # Lazy static regexes
 once_cell = "1"
 
+# Checksums for raw import dedup
+sha2 = "0.10"
+
 [dev-dependencies]
 tempfile = "3"

@@ -1,0 +1,4 @@
+Paytm: Rs.250.00 sent to Ramesh Kumar (Merchant) from HDFC Bank XX1234 on 15/06/26. Ref: 614150401898. Not you? Call 0120-4455666.
+Paytm: Rs.1500.00 received from Suresh Patel (HDFC Bank XX5678) on 15/06/26. Ref: 614150401899. Balance: Rs.4750.00. Not you? Call 0120-4455666.
+Paytm: Rs.89.00 paid to Swiggy (Merchant) via UPI from ICICI Bank XX2345 on 16/06/26. Ref: 614150401900. Not you? Call 0120-4455666.
+Paytm: Rs.320.00 paid to Uber (Merchant) via UPI from SBI XX6789 on 17/06/26. Ref: 614150401901. Not you? Call 0120-4455666.

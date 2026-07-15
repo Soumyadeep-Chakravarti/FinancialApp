@@ -1,0 +1,5 @@
+Paytm: Rs.10.00 sent to Chai Stall (Merchant) from SBI XX1234 on 15/06/26. Ref: 614150402001.
+Paytm: Rs.99999.99 sent to Ramesh Kumar (Merchant) from HDFC XX5678 on 15/06/26. Ref: 614150402002.
+Paytm: Rs.0.50 paid to Auto Fare (Merchant) via UPI from ICICI XX9012 on 15/06/26. Ref: 614150402003.
+Paytm: Rs.1,500.00 sent to Grocery Store from Axis XX3456 on 15/06/26. Ref: 614150402004.
+Paytm: Rs.25,000.00 sent to Landlord (Merchant) from Kotak XX7890 on 15/06/26. Ref: 614150402005.

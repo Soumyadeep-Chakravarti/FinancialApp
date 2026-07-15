@@ -1,0 +1,10 @@
+SBI: Rs.500.00 debited from A/c XX1234 on 15-Jan-24. UPI Ref: 123456789012
+SBI: Rs.1200.00 debited from A/c XX1234 on 15-Jan-24. UPI Ref: 987654321012
+SBI: Rs.350.00 debited from A/c XX1234 on 15-Jan-24. UPI Ref: 456789012345
+SBI: Rs.75.00 debited from A/c XX1234 on 15-Jan-24. UPI Ref: 112233445566
+SBI: Rs.2500.00 credited to A/c XX1234 on 15-Jan-24. UPI Ref: 667788990011
+SBI: Rs.150.00 debited from A/c XX1234 on 15-Jan-24. UPI Ref: 223344556677
+SBI: Rs.4500.00 debited from A/c XX1234 on 15-Jan-24. UPI Ref: 334455667788
+SBI: Rs.850.00 debited from A/c XX1234 on 15-Jan-24. UPI Ref: 445566778899
+SBI: Rs.200.00 credited to A/c XX1234 on 15-Jan-24. UPI Ref: 556677889900
+SBI: Rs.3200.00 debited from A/c XX1234 on 15-Jan-24. UPI Ref: 667788990022

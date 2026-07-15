@@ -1,0 +1,8 @@
+Delhivery: Your order OD-12345 has been shipped. Track: DEL123456789
+Amazon: Your order will be delivered tomorrow between 10 AM - 2 PM
+Flipkart: Your order is out for delivery
+OTP: 456789 is your verification code. Do not share.
+Your OTP is 123456. Valid for 5 minutes.
+Swiggy: Your order from McDonald's has been confirmed. ETA: 25 mins
+Google Pay: Your UPI PIN has been set successfully
+PhonePe: KYC verification completed successfully
